@@ -90,7 +90,7 @@ ${dataOBJ.description}
 ## Installation
 ${dataOBJ.instructions}
 ## Usage
-${dataOBJ.usage_information}
+![alt text](${dataOBJ.usage_information})
 ## Tests
 ${dataOBJ.testing}
 ## Credits
@@ -108,7 +108,7 @@ ${FullLicense}
 If you like to contribute, my github username is ${dataOBJ.github}
 
 ## Questions
-If you have any questions, please contact me at ${dataOBJ.email}
+If you have any questions, please contact me at ${dataOBJ.email}  
 Link to my github profile page https://github.com/${dataOBJ.github}
  
     `
