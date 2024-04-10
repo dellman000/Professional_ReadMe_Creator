@@ -15,7 +15,7 @@ make an automatic readme script
 ## Installation
 clone the repository and type npm i. Then type node index.js
 ## Usage
-![alt text](Capture.png)
+![alt text](image.png)
 ## Tests
 none
 ## Credits
