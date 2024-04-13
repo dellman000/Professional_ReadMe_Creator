@@ -15,6 +15,7 @@ make an automatic readme script
 ## Installation
 clone the repository and type npm i. Then type node index.js
 ## Usage
+to see how its used: https://drive.google.com/file/d/13mhrq0ENCtMpOopG5McGlBfmW04r1p2k/view
 ![alt text](image.png)
 ## Tests
 none
